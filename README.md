@@ -1,12 +1,11 @@
 # SegNetSim
-SegNetSim: Simulação de Infraestrutura Segura para Ambiente Empresarial
-### O que é SegNetSim? 
-- Projeto que visa criar um ambiente empresarial virtualizado utilizando EVE-NG. A pretensão do projeto é detalhar a configuração de segmentação de redes, políticas de segurança, implementação de IDS/IPS entre outros para criar um ambiente mais realista e seguro possível. O objetivo é disponibilizar uma estrutura pronta feira no eve-ng e documentação dos softwares virtualizado no medium/dev.to
-  
-### Projeto SegNetSim.
-[Projeto SegNetSim. Parte 1.](https://medium.com/@robertocoliver/projeto-segnetsim-parte-2-6eacba7f8886)</br>
-[Projeto SegNetSim. Parte 2.](https://medium.com/@robertocoliver/projeto-segnetsim-parte-2-2882670a1634)
+SegNetSim: Secure Infrastructure Simulation for Enterprise Environment
+### What is SegNetSim?
+- A project aimed at creating a virtualized enterprise environment using EVE-NG. The project's intention is to detail the network segmentation configuration, security policies, implementation of IDS/IPS, among others, to create the most realistic and secure environment possible. The goal is to provide a ready-made structure in EVE-NG and documentation of the virtualized software on Medium/Dev.to.
 
+### SegNetSim Project
+[SegNetSim Project. Part 1.](https://medium.com/@robertocoliver/projeto-segnetsim-parte-2-6eacba7f8886)</br>
+[SegNetSim Project. Part 2.](https://medium.com/@robertocoliver/projeto-segnetsim-parte-2-2882670a1634)
 
-### Como proteger a rede ? 
-[Como proteger a rede ? Parte 1.](https://medium.com/@robertocoliver/como-proteger-a-rede-parte-1-c597fcb92db2)
+### How to secure the network?
+[How to secure the network? Part 1.](https://medium.com/@robertocoliver/como-proteger-a-rede-parte-1-c597fcb92db2)
